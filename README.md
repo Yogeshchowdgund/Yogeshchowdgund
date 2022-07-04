@@ -8,7 +8,7 @@
 
 Things I Code with 
 
-Frontend  -  XAML | HTML | CSS 
+Frontend  -  XAML | HTML | CSS | javascript | Angular
 
 Backend   -   C#  | Python
 
