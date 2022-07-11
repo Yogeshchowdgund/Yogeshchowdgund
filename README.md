@@ -2,8 +2,8 @@
 
 
 - 👋 I’m Yogesh chowdgund
-- 👀 I’m interested in Desktop Applications
-- 🌱 I’m currently learning  Windows presentation Framework
+- 👀 I’m interested in Desktop and Web Applications
+- 🌱 I’m currently Working on WPF and Angular
 - 📫 How to reach me https://www.linkedin.com/in/yogeshsc/
 
 Things I Code with 
