@@ -2,17 +2,17 @@
 
 
 - 👋 I’m Yogesh chowdgund
-- 👀 I’m interested in Desktop and Web Applications
-- 🌱 I’m currently Working on WPF and Angular
+- 👀 I’m interested in Web and Desktop Applications
+- 🌱 I’m currently Working on Angular, WPF and ASP.NET core.
 - 📫 How to reach me https://www.linkedin.com/in/yogeshsc/
 
 Things I Code with 
 
-Frontend  -  XAML | HTML | CSS | javascript | Angular
+Frontend  -   HTML | CSS | javascript | Angular | Typescript | XAML
 
 Backend   -   C#  | Python
 
-Database  -  SQL
+Database  -  SQL 
 
 VCS       -  Git  | Github | Bitbucket
 
